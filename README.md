@@ -3,4 +3,4 @@
 Route  | Method | Purpose
 ------------- | ------------- | -------------
 /pincodes  | GET | Get all pincode with their district and state name 
-/pincodes/{pincde}  | GET | Get state and district of a particular pincode
+/pincodes/{pincode}  | GET | Get state and district of a particular pincode
