@@ -25,6 +25,8 @@ public class PincodeController {
 	public Map<String,String> intro(){
 		Map<String, String> map = new HashMap<>();
 		map.put("Made By", "Devansh Mohata");
+		map.put("Repository Link", "https://github.com/MISHANDLED/Pincodes_API");
+		
 		return map;
 	}
 	
